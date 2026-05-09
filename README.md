@@ -24,6 +24,16 @@ Fully connected MLP : [2 → 64 → 64 → 64 → 64 → 1]
 Activation : tanh (smooth, double differentiable, needed for second order PDE derivatives)
 ~12,900 trainable parameters
 
+# Project structure
+Physics-Informed-Neural-Network/
+│
+├── pinn_allen_cahn.ipynb      # Main notebook (architecture, training, validation)
+├── requirements.txt           # Python dependencies
+├── .gitignore
+├── LICENSE
+└── README.md
+
+
 # About me
 Neel Patel — B.Tech in Materials Science, IIT Hyderabad
 ms24btech11024@iith.ac.in
