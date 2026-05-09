@@ -25,13 +25,15 @@ Activation : tanh (smooth, double differentiable, needed for second order PDE de
 ~12,900 trainable parameters
 
 # Project structure
-Physics-Informed-Neural-Network/
-│
-├── pinn_allen_cahn.ipynb      # Main notebook (architecture, training, validation)
-├── requirements.txt           # Python dependencies
-├── .gitignore
-├── LICENSE
-└── README.md
+
+
+| File | Description |
+|---|---|
+| `pinn_allen_cahn.ipynb` | Main notebook |
+| `requirements.txt` | Python dependencies |
+| `.gitignore` | Git ignore rules |
+| `LICENSE` | License |
+| `README.md` | Project info |
 
 
 # About me
