@@ -34,7 +34,7 @@ Activation : tanh (smooth, double differentiable, needed for second order PDE de
 | **Deep Learning** | PyTorch |
 | **Scientific computing** | NumPy, SciPy |
 | **Visualizing** | Matplotlib | 
-| **Version control** | Git, GitHub |
+| **Version control** | GitHub |
 
 </div>
 
