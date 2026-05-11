@@ -24,8 +24,23 @@ Fully connected MLP : [2 → 64 → 64 → 64 → 64 → 1]
 Activation : tanh (smooth, double differentiable, needed for second order PDE derivatives)
 ~12,900 trainable parameters
 
-# Project structure
+# Tech Stack
 
+<div align="center">
+
+| Category | Technologies |
+|----------|--------------|
+| **Language** | Python |
+| **Deep Learning** | PyTorch |
+| **Scientific computing** | NumPy, SciPy |
+| **Visualizing** | Matplotlib | 
+| **Version control** | Git, GitHub |
+
+</div>
+
+---
+
+# Project structure
 
 | File | Description |
 |---|---|
