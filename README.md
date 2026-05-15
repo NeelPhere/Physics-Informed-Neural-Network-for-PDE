@@ -24,6 +24,8 @@ Fully connected MLP : [2 → 64 → 64 → 64 → 64 → 1]
 Activation : tanh (smooth, double differentiable, needed for second order PDE derivatives)
 ~12,900 trainable parameters
 
+I try to recover sinusoidal initial condition in the result from the PINN.
+
 # Tech Stack
 
 <div align="center">
@@ -44,7 +46,7 @@ Activation : tanh (smooth, double differentiable, needed for second order PDE de
 
 | File | Description |
 |---|---|
-| `pinn_allen_cahn.ipynb` | Main notebook |
+| `PINN.ipynb` | Main notebook |
 | `requirements.txt` | Python dependencies |
 | `.gitignore` | Git ignore rules |
 | `LICENSE` | License |
