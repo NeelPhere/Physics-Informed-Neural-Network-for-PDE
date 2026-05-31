@@ -57,6 +57,15 @@ I try to recover sinusoidal initial condition in the result from the PINN.
 | `README.md` | Project info |
 
 
+## Notebook
+
+If GitHub fails to render the notebook preview, open it through:
+
+https://nbviewer.org/
+
+or download `PINN.ipynb` and open it locally in Jupyter Notebook/Jupyter Lab.
+
+
 # About me
 Neel Patel — B.Tech in Materials Science, IIT Hyderabad
 ms24btech11024@iith.ac.in
