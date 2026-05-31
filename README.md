@@ -26,6 +26,10 @@ Activation : tanh (smooth, double differentiable, needed for second order PDE de
 
 I try to recover sinusoidal initial condition in the result from the PINN.
 
+# RESULT
+#### The PINN result when compared with FDM achieved a relative L2 error of 3.28%. Thus proving this PINN can learn and output AC equation solution reliably.
+
+
 # Tech Stack
 
 <div align="center">
